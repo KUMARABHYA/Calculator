@@ -1,9 +1,9 @@
 :root {
     --primary-color: #009688;
     --header-color:#fff;
-    --body-bg: #fbe9e7;
+    --body-bg: #4ee629;
     --footer-bg:#fff;
-    --font-color:#333;
+    --font-color:rgb(209, 12, 12);
     --symbol-color:#d65488;
     --symbol-dark:rgb(88, 7, 71);
     --symbol-hover: rgb(196, 159, 180);
@@ -37,7 +37,7 @@
      align-items: center;
      width: 100vw;
      height: 100vh;
-     background-color: var( --primary-color);
+     background-image: url(/back\ e.jpeg);
  }
   .calculator{
       display: grid;
